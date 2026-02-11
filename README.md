@@ -1,7 +1,3 @@
-![Isaac Lab](docs/source/_static/isaaclab.jpg)
-
----
-
 # Isaac Lab
 
 [![IsaacSim](https://img.shields.io/badge/IsaacSim-5.1.0-silver.svg)](https://docs.isaacsim.omniverse.nvidia.com/latest/index.html)
